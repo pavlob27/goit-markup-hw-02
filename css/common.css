@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    background-color: #fafafa;
+    background-color: #fff;
     color: #434455;
 
     font-weight: 400;
@@ -40,10 +40,12 @@ button:focus {
     line-height: 1.33;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    color: #2E2F42;
 }
 h1 {
     font-size: 56px;
     line-height: 1.07;
+    text-align: center;
     
     
 }
