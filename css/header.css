@@ -10,3 +10,6 @@
 .address-link:focus {
     color: #404BBF;
 }
+.nav-link.feauteres:active {
+    text-decoration: underline;
+}
